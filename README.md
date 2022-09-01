@@ -1,7 +1,9 @@
 # RO22
 RO22 group repository from SDA JavaScript
 
-
+// https://github.com/LaurVieru96/RO22.git ---> link de la repo de pe github.
+// Selectati casuta verde cu Code> , copy HTTPS, apoi in terminal in VSCODE "git clone + ce ati copiat" 
+// GIT INIT
 
 
 #### comenzi de git utile :

@@ -7,7 +7,7 @@ RO22 group repository from SDA JavaScript
 #### comenzi de git utile :
 
 
-## git clone https://gitlab.com/alinbumbes/sass-course-gitlab.git   
+## git clone  
 ( sau orice alt link de repository din gitlab, github, etc)
 pentru a descarca pe calculatorul personal un proiect din github/gitlab/bitbucket sau orice alt repository online. 
 
